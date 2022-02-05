@@ -18,3 +18,13 @@ C:\Users\Yibing Chen\source\repos\BreakReminder\BreakReminder\ReminderApp\obj\De
 C:\Users\Yibing Chen\source\repos\BreakReminder\BreakReminder\ReminderApp\obj\Debug\ReminderApp.csproj.CoreCompileInputs.cache
 C:\Users\Yibing Chen\source\repos\BreakReminder\BreakReminder\ReminderApp\obj\Debug\ReminderApp.exe
 C:\Users\Yibing Chen\source\repos\BreakReminder\BreakReminder\ReminderApp\obj\Debug\ReminderApp.pdb
+C:\Users\yibingchenvirtual\source\repos\BreakReminder\BreakReminder\ReminderApp\bin\Debug\ReminderApp.exe.config
+C:\Users\yibingchenvirtual\source\repos\BreakReminder\BreakReminder\ReminderApp\bin\Debug\ReminderApp.exe
+C:\Users\yibingchenvirtual\source\repos\BreakReminder\BreakReminder\ReminderApp\bin\Debug\ReminderApp.pdb
+C:\Users\yibingchenvirtual\source\repos\BreakReminder\BreakReminder\ReminderApp\obj\Debug\ReminderApp.csprojAssemblyReference.cache
+C:\Users\yibingchenvirtual\source\repos\BreakReminder\BreakReminder\ReminderApp\obj\Debug\ReminderApp.Form1.resources
+C:\Users\yibingchenvirtual\source\repos\BreakReminder\BreakReminder\ReminderApp\obj\Debug\ReminderApp.Properties.Resources.resources
+C:\Users\yibingchenvirtual\source\repos\BreakReminder\BreakReminder\ReminderApp\obj\Debug\ReminderApp.csproj.GenerateResource.cache
+C:\Users\yibingchenvirtual\source\repos\BreakReminder\BreakReminder\ReminderApp\obj\Debug\ReminderApp.csproj.CoreCompileInputs.cache
+C:\Users\yibingchenvirtual\source\repos\BreakReminder\BreakReminder\ReminderApp\obj\Debug\ReminderApp.exe
+C:\Users\yibingchenvirtual\source\repos\BreakReminder\BreakReminder\ReminderApp\obj\Debug\ReminderApp.pdb

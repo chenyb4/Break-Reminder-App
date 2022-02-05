@@ -186,7 +186,12 @@ namespace ReminderApp
                     f.Opacity = 0.5;
                     f.Load += new EventHandler(f_Load);
                     f.Show();
-                }
+                    MinimizeBox = false;
+                    TopMost = true;
+                    if (WindowState == FormWindowState.Minimized)
+                        WindowState = FormWindowState.Normal;
+                    
+                }          
                     else
                     {
                         hour--;
@@ -214,12 +219,21 @@ namespace ReminderApp
                 btnBegin.Text = "Pause";
                 btnBegin.BackColor = Color.Red;
                 btnReset.Enabled = true;
+
+                //enable minimize button 
+                MinimizeBox = true;
+                TopMost = false;
+
             }
             else
             {
                 timer1.Enabled = false;
                 btnBegin.Text = "Begin";
                 btnBegin.BackColor = SystemColors.ActiveBorder;
+
+
+                MinimizeBox = false;
+                TopMost = true;
             }
            
 
@@ -260,7 +274,9 @@ namespace ReminderApp
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            
+            this.TopMost = true;
+            this.MinimizeBox = false;
         }
+        
     }
 }
